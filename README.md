@@ -1,2 +1,2 @@
 # gluco-bot
-Telegram bot that helps to track glucose mesures
+Telegram bot that helps to track glucose measures
